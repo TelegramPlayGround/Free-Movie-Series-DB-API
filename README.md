@@ -2,7 +2,7 @@
   <a href="https://github.com/SpEcHiDe/IMDbOT/stargazers"><img src="https://img.shields.io/github/stars/SpEcHiDe/IMDbOT.svg?style=for-the-badge"/></a>
   <a href="https://github.com/SpEcHiDe/IMDbOT/network/members"><img src="https://img.shields.io/github/forks/SpEcHiDe/IMDbOT.svg?style=for-the-badge"/></a>
   <a href="https://github.com/SpEcHiDe/IMDbOT/issues"><img src="https://img.shields.io/github/issues/SpEcHiDe/IMDbOT.svg?style=for-the-badge"/></a>
-  <a href="https://github.com/SpEcHiDe/IMDbOT/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/SpEcHiDe/IMDbOT.svg?style=for-the-badge"/></a>
+  <a href="https://github.com/SpEcHiDe/IMDbOT/blob/master/LICENSE"><img src="https://img.shields.io/github/license/SpEcHiDe/IMDbOT.svg?style=for-the-badge"/></a>
 </a>
 
 <!-- PROJECT LOGO -->
@@ -17,7 +17,7 @@
   <p align="center">
     A free API, to get IMDb.com details
     <br />
-    <a href="https://i-m-d-b.herokuapp.com/docs/"><strong>Explore the api »</strong></a>
+    <a href="https://github.com/SpEcHiDe/IMDbOT/wiki"><strong>Explore the api »</strong></a>
     <br />
     <br />
     ·
@@ -55,8 +55,8 @@ The **TelegramBot** is an InLine bot and can be used in any chat, without the ne
 
 ## API
 
-The **API** is hosted with ❤️ on multiple **FREE** hosting platforms. 
-- [Heroku](https://i-m-d-b.herokuapp.com/docs/)
+The **API** is hosted with ❤️ on **FREE** hosting platforms. 
+
 - [CloudFlare Workers](https://search.imdbot.workers.dev/) ~~NO DOCS~~
 
 <!-- USAGE EXAMPLES -->
