@@ -1,5 +1,5 @@
 ---
-name: IMDb Bug Report Template
+name: IMDbOT Bug Report Template
 about: Create a report to help us improve
 title: ''
 labels: 'auto-bug'
